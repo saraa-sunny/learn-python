@@ -1,6 +1,6 @@
-# Data Science Handbook
+# Learn Data Analysis
 
-This repository is my collection of practical Data Science Jupyter notebooks and reusable code for learning and applying data analysis and data science workflows.
+This repository is my collection of practical Data Analysis Jupyter notebooks and reusable code for learning and applying data analysis.
 
 ### 📘 What’s Inside
 * Data cleaning – Handling missing values, duplicates, outliers, formatting, and renaming columns.
@@ -19,8 +19,8 @@ This repository is my collection of practical Data Science Jupyter notebooks and
 ### ▶️How to Run the Notebooks
 1. Clone the repo
 ```
-git clone https://github.com/saraa-sunny/data-science-handbook.git
-cd data-science-handbook
+git clone https://github.com/saraa-sunny/learn-data-analysis.git
+cd learn-data-analysis
 ```
 2. Install required packages
 ```
